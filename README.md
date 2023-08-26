@@ -1,10 +1,12 @@
 # BlackJack_Royale
 Text-Based Card Game in Python
+
    
-# **Welcome to the Blackjack game! This is a simple text-based implementation of the classic Blackjack card game using Python.**
+### **Welcome to the Blackjack game! This is a simple text-based implementation of the classic Blackjack card game using Python.**
+
 
 ## **Game Rules**
-# In this game, you'll play against the computer dealer. The goal is to get a higher score than the dealer without exceeding a score of 21.
+### In this game, you'll play against the computer dealer. The goal is to get a higher score than the dealer without exceeding a score of 21.
 
 1. The game starts with each player (you and the dealer) being dealt two cards.
 2. Cards 2 to 10 are worth their face value. Jack, Queen, and King are each worth 10 points. An Ace can be worth 1 or 11 points, depending on which value benefits the hand more.
