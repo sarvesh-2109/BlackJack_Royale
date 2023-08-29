@@ -2,7 +2,10 @@
 Text-Based Card Game in Python
 
    
-### **Welcome to the Blackjack game! This is a simple text-based implementation of the classic Blackjack card game using Python.**
+Welcome to the Blackjack game! This is a simple text-based implementation of the classic Blackjack card game using Python.
+
+## **Working**
+![image](https://github.com/sarvesh-2109/BlackJack_Royale/assets/113255836/e2ff7599-0dcb-481a-87e0-36add05a8402)
 
 
 
