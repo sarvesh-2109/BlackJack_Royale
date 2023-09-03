@@ -72,6 +72,6 @@ def play_game():
     print(compare(user_score, computer_score))
 
 
-while input("Do you want to play a game of BlackJack?: Type 'y' or 'n':").lower() == "y":
+while input("Do you want to play a game of BlackJack?: Type 'y' or 'n': ").lower() == "y":
     clear()
     play_game()
